@@ -1,0 +1,22 @@
+{
+  "name": "shopbot",
+  "version": "0.0.1",
+  "description": "App to help with catching restocks of high price items",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/17bryen/ShopBot.git"
+  },
+  "author": "Bellun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/17bryen/ShopBot/issues"
+  },
+  "homepage": "https://github.com/17bryen/ShopBot#readme",
+  "dependencies": {
+      "axios": ">=0.21.1"
+  }
+}
